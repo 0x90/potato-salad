@@ -1,0 +1,75 @@
+[submodule "RottenPotato"]
+	path = RottenPotato
+	url = https://github.com/foxglovesec/RottenPotato
+[submodule "sepriv"]
+	path = sepriv
+	url = https://github.com/TarlogicSecurity/sepriv
+[submodule "PSAccessToken"]
+	path = PSAccessToken
+	url = https://github.com/jborean93/PSAccessToken
+[submodule "Potato"]
+	path = Potato
+	url = https://github.com/brandonprry/Potato
+[submodule "juicy-potato"]
+	path = juicy-potato
+	url = https://github.com/ohpe/juicy-potato
+[submodule "RottenPotatoNG"]
+	path = RottenPotatoNG
+	url = https://github.com/breenmachine/RottenPotatoNG
+[submodule "token-priv"]
+	path = token-priv
+	url = https://github.com/hatRiot/token-priv
+[submodule "SmashedPotato"]
+	path = SmashedPotato
+	url = https://github.com/Cn33liz/SmashedPotato
+[submodule "RottenPotatoes"]
+	path = RottenPotatoes
+	url = https://github.com/TomWerner/RottenPotatoes
+[submodule "NP_impersonate"]
+	path = NP_impersonate
+	url = https://github.com/sailay1996/NP_impersonate
+[submodule "lsaopen"]
+	path = lsaopen
+	url = https://github.com/saper/lsaopen
+[submodule "EoPLoadDriver"]
+	path = EoPLoadDriver
+	url = https://github.com/TarlogicSecurity/EoPLoadDriver
+[submodule "Privesc"]
+	path = Privesc
+	url = https://github.com/enjoiz/Privesc
+[submodule "SysExec"]
+	path = SysExec
+	url = https://github.com/NotGlop/SysExec
+[submodule "BeRoot"]
+	path = BeRoot
+	url = https://github.com/AlessandroZ/BeRoot
+[submodule "NamedPipeImpersonation"]
+	path = NamedPipeImpersonation
+	url = https://github.com/MinatoTW/NamedPipeImpersonation
+[submodule "GetSystem"]
+	path = GetSystem
+	url = https://github.com/NeodymiumFerBore/GetSystem
+[submodule "incognito"]
+	path = incognito
+	url = https://github.com/FSecureLABS/incognito
+[submodule "dradis-ce"]
+	path = dradis-ce
+	url = https://github.com/dradis/dradis-ce
+[submodule "evil-winrm"]
+	path = evil-winrm
+	url = https://github.com/Hackplayers/evil-winrm
+[submodule "winescalation"]
+	path = winescalation
+	url = https://github.com/dzonerzy/winescalation
+[submodule "incognito2"]
+	path = incognito2
+	url = https://github.com/fdiskyou/incognito2
+[submodule "tokenpriv"]
+	path = tokenpriv
+	url = https://github.com/stark0de/tokenpriv
+[submodule "pypykatz"]
+	path = pypykatz
+	url = https://github.com/skelsec/pypykatz
+[submodule "ProcessPrivileges"]
+	path = ProcessPrivileges
+	url = https://github.com/ViRb3/ProcessPrivileges
