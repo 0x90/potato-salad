@@ -1,4 +1,2 @@
-# Potato salad
-
-Privilege -> Admin
-
+# potato-salad
+Potato + privileges = salad
