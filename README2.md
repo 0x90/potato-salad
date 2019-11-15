@@ -1,4 +1,0 @@
-# Potato salad
-
-Privilege -> Admin
-
