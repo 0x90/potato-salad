@@ -73,3 +73,6 @@
 [submodule "incognito2"]
 	path = incognito2
 	url = https://github.com/milkdevil/incognito2
+[submodule "BadPotato"]
+	path = BadPotato
+	url = https://github.com/BeichenDream/BadPotato

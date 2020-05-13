@@ -3,6 +3,11 @@
 Potato + privileges = salad
 
 
+https://labs.f-secure.com/archive/incognito-v2-0-released/
+
+https://itm4n.github.io/printspoofer-abusing-impersonate-privileges/
+
+
 ## Submodule actions
 
 Initial clone
