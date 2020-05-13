@@ -61,9 +61,6 @@
 [submodule "winescalation"]
 	path = winescalation
 	url = https://github.com/dzonerzy/winescalation
-[submodule "incognito2"]
-	path = incognito2
-	url = https://github.com/fdiskyou/incognito2
 [submodule "tokenpriv"]
 	path = tokenpriv
 	url = https://github.com/stark0de/tokenpriv
