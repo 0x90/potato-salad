@@ -1,11 +1,15 @@
-# potato-salad
+# Potato salad
 
 Potato + privileges = salad
 
 
+## Papers
+
 https://labs.f-secure.com/archive/incognito-v2-0-released/
 
 https://itm4n.github.io/printspoofer-abusing-impersonate-privileges/
+
+https://movaxbx.ru/2020/05/13/abusing-seloaddriverprivilege-for-privilege-escalation/
 
 
 ## Submodule actions
