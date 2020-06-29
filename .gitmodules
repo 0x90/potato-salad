@@ -76,3 +76,6 @@
 [submodule "BadPotato"]
 	path = BadPotato
 	url = https://github.com/BeichenDream/BadPotato
+[submodule "RoguePotato"]
+	path = RoguePotato
+	url = https://github.com/antonioCoco/RoguePotato
